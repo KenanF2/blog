@@ -8,7 +8,7 @@
 h1 {
     color:red;
     font-size: 40px;
-    font-style: Verdana;
+    font-family: Verdana, Geneva, sans-serif;
 }
 h2 {
     color: blue;
