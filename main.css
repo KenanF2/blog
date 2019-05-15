@@ -1,0 +1,22 @@
+* {
+    background-color: whitesmoke
+}
+#img1 {
+    width: 1400px;
+    height: 400px;
+}
+h1 {
+    color:red;
+    font-size: 40px;
+    font-style: Verdana;
+}
+h2 {
+    color: blue;
+    font-size: 26px
+}
+h4 {
+    font-size: 20px
+}
+p {
+    font-size: 16px
+}
