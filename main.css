@@ -3,6 +3,9 @@
     margin: 20px;
     background-color: whitesmoke
 }
+.navbar{
+    font-family: 'Anton', sans-serif;
+}
 .wrapper{
     margin: 20px;
 }
